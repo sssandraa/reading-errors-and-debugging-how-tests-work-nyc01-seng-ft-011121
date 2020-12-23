@@ -2,4 +2,4 @@ first_number = 3
 
 second_number = 2
 
-sum
+sum = first_number = second_number
